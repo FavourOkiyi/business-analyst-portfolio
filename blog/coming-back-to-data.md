@@ -35,4 +35,4 @@ I'm now looking to embrace opportunities where I can solve real business problem
 
 ---
 
-*I'm documenting my data analytics practice publicly on GitHub — feel free to follow along or connect.*
+*I'm documenting my business analytics practice publicly on GitHub — feel free to follow along or connect.*
