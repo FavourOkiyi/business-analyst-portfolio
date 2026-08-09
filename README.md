@@ -37,6 +37,9 @@ Hi! I'm Favour Okiyi, a soon-to-be certified Business Analyst. This repo showcas
 - Data visualization & dashboard design
 - Business case development
 
+## ✍️ Writing
+
+- [Coming Back to Data: What I Learned in the Analytics Development Lifecycle Bootcamp](blog/coming-back-to-data.md) — a reflection on my career switch back into data analytics and the full ADLC curriculum (SQL, data modelling, cloud infrastructure, Power BI, and applied AI).
 ---
 
 ## 🔗 Related Repos
